@@ -1,4 +1,5 @@
 # 📡 Wi-Fi Analyzer Tool
+<img width="546" height="498" alt="Screen Shot 2026-04-26 at 11 50 17" src="https://github.com/user-attachments/assets/db341593-e9ce-42af-adc8-3bff38183104" />
 
 Простий GUI-інструмент на Python для моніторингу Wi-Fi сигналу в реальному часі (macOS).
 
